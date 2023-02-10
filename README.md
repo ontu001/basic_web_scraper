@@ -1,1 +1,4 @@
-"the scrape_data function uses the requests library to retrieve the HTML content of the specified website, and the BeautifulSoup library to parse the HTML and extract the desired data. The store_data function uses the sqlite3 library to connect to a SQLite database and store the extracted data in a table named articles" 
+Basic web scraper that extracts data from a specific website and stores it in a local database.
+the scrape_data function uses the requests library to retrieve the HTML content of the specified website, and the BeautifulSoup library to parse the HTML and extract the desired data. The store_data function uses the sqlite3 library to connect to a SQLite database and store the extracted data in a table named articles" 
+
+Note that this is a basic web scraper, and you may need to modify the code to fit your specific use case. Additionally, you should be mindful of ethical and legal considerations when scraping data from websites, such as respecting the website's terms of service and avoiding scraping sensitive or confidential information.
